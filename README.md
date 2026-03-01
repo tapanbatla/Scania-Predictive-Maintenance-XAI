@@ -15,7 +15,8 @@ This repository contains the code and academic report for predicting Air Process
 
 ## Files Included
 * `Scania_Predictive_Maintenance.ipynb`: The fully documented Python codebase containing data preprocessing, model training, and SHAP visualizations.
-##Dtaset Link
+
+##Dataset Link
 *Dataset Link: https://researchdata.se/en/catalogue/dataset/2024-34/2
 
 ## Technologies Used
